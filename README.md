@@ -1,4 +1,4 @@
-# APS1070 Project 1
+# APS1070 Project 1 - Basic Principles and Models
 -	Use of Panda: pd.concat; pd.DataFrame; 
 -	Use of Numpy: np.where; np.arange
 -	Use of matplotlib.pyplot: plt.plot;
