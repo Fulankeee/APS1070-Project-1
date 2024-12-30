@@ -1,4 +1,4 @@
-# APS1070 Project 1 - Basic Principles and Models
+# APS1070 Project 1 - Basic Principles and Models in Machine Learning
 -	Use of Panda: pd.concat; pd.DataFrame; 
 -	Use of Numpy: np.where; np.arange
 -	Use of matplotlib.pyplot: plt.plot;
